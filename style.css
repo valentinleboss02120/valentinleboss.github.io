@@ -1,1 +1,16 @@
+h1
+{
+	text-align: center;
+    background-color: black;
+	color: white;
+}
+Body
+{
+	background-image: url("../images/fond-decran-12.jpg");
+	color : #2FFF00;
+	font-size: 25px;
+	background-repeat:-no-repeat;
+	background-position: right top;
+	background-size: 3000px 2500px
+}
 
