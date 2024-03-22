@@ -7,10 +7,56 @@ h1
 Body
 {
 	background-image: url("../images/fond-decran-12.jpg");
-	color : #2FFF00;
+	color : #255255255;
 	font-size: 25px;
 	background-repeat:-no-repeat;
 	background-position: right top;
-	background-size: 3000px 2500px
+	background-size: 3000px 3000px;
 }
+ table_1
+{	
+	border: 2px solid;
+	border-color : white;
+	width : 100%;
+	background-color : #E0FFFF;
+		
+}
+
+
+  ul {
+
+	
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+	background-color: rgb(0,0,0);
+	
+  }
+
+  li a {
+	display: block;
+	color: white;
+	padding: 10px; 
+	text-align:center;
+	font-size:25px;
+	text-decoration: none;
+  }
+  
+  li a:hover {
+	background-color: #00FFFF;;
+	color: black;
+	text-decoration: none;
+  }
+  
+  li {
+		/*float:left;*/
+		display: inline-block;
+		width : 120px;
+	}
+
+li{
+		/*float:left;*/
+		display: inline-block;
+		width : 120px;
+	}
 
